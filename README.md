@@ -1,4 +1,5 @@
 # Wedding
+Hosted Version: https://wedding-20a63.web.app/home
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.2.
 
